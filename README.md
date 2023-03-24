@@ -23,3 +23,6 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/zhutaevdenis/" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7c4b553549dafd15f3f3c1a94e374c0e187f739c/instagram-2-1-logo-svgrepo-com.svg" alt="" height="30"  width="40" /></a>
  <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
+
+  
+  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-161B22?style=for-the-badge&logoColor=white&logo=link-external"/></a>
