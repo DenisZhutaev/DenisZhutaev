@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <a href="https://trello.com/" target="_blank"><img align="left" alt="Trello" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3ebef14b6d2e63a30986e8399920b22386575c7/trello-color-svgrepo-com.svg"></a>
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/51a4c6f8382e0f214b0d5a3196e3217492de7bd4/jira-svgrepo-com.svg"></a>
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/38999e3946d16ff7d8102a5f1e9b81c4b3c5d887/postman-icon-svgrepo-com.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b9ac63c9d2e6aaabd538c8fe1ba9b0b03efe7261/git-svgrepo-com.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height='42px'/> </a>
 
 <br>
 
