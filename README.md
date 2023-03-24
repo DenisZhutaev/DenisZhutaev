@@ -1,8 +1,15 @@
 ### 
-<div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DenisZhutaev.DenisZhutaev">
 
-[![Visits](https://komarev.com/ghpvc/?username=DenisZhutaev&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/DenisZhutaev)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Denis+Zhutaev....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<!-- <div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ -->
+<!-- [![Visits](https://komarev.com/ghpvc/?username=DenisZhutaev&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/DenisZhutaev) -->
 
 <!--
 **DenisZhutaev/DenisZhutaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
