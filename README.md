@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zhutaevdenis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://drive.google.com/file/d/1KqAbUCP0CRlGMaxZwx1JNdaOMqTmMdzz/view?usp=share_link" alt="" height="30" width="40" /></a>
 </p>
