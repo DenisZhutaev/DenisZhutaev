@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
 
 <!--
 **DenisZhutaev/DenisZhutaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +27,4 @@ Here are some ideas to get you started:
  <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
 
- <div align="center">
-   <h1>Hi there, I'm <a href="">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ 
