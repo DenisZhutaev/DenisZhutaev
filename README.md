@@ -2,8 +2,8 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
+[![Visits](https://komarev.com/ghpvc/?username=DenisZhutaev&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/DenisZhutaev)
+
 <!--
 **DenisZhutaev/DenisZhutaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
