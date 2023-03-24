@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/user_553876" target="blank"><img align="center" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:zhutaev.d@gmail.com" target="blank"><img align="center" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7fec85857ca7dfb309f40873a66de5da3de04b84/gmail-old-svgrepo-com.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zhutaevdenis/" target="blank"><img align="center" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/cfb5798b76ce03b7100a276f65a6ca09dc02bdc2/instagram-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
