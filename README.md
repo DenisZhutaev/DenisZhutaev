@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=1748846065" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=1748846065" target="blank"><img align="center" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/4beadd6b586c37ef5bba11b645554fad281279cd/facebook-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/user_553876" target="blank"><img align="center" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://drive.google.com/file/d/1KqAbUCP0CRlGMaxZwx1JNdaOMqTmMdzz/view?usp=share_link" alt="" height="30" width="40" /></a>
