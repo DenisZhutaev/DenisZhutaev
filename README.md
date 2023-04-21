@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
 <a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/8e28783ec35a7d29d0889af84cd25130dc46be67/miro-logos-idG4aRyg5R.svg"> </a>
 <a href="https://trello.com/" target="_blank"><img align="left" alt="Trello" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3ebef14b6d2e63a30986e8399920b22386575c7/trello-color-svgrepo-com.svg"></a>
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/51a4c6f8382e0f214b0d5a3196e3217492de7bd4/jira-svgrepo-com.svg"></a>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="mailto:zhutaev.d@gmail.com" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7fec85857ca7dfb309f40873a66de5da3de04b84/gmail-old-svgrepo-com.svg"target="_blank" alt="" height="30" width="40"  /></a>
+ <a href="mailto:zhutaev.d@gmail.com" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7fec85857ca7dfb309f40873a66de5da3de04b84/gmail-old-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
  <a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3cfb8c4dcd5fc84edb335c6a01a6924aed33b82/linkedin-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
  <a href="https://t.me/user_553876" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
  <a href="https://www.facebook.com/profile.php?id=1748846065" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/4beadd6b586c37ef5bba11b645554fad281279cd/facebook-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
