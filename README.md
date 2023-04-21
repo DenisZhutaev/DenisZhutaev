@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
 <a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/8e28783ec35a7d29d0889af84cd25130dc46be67/miro-logos-idG4aRyg5R.svg"> </a>
 <a href="https://trello.com/" target="_blank"><img align="left" alt="Trello" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3ebef14b6d2e63a30986e8399920b22386575c7/trello-color-svgrepo-com.svg"></a>
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/51a4c6f8382e0f214b0d5a3196e3217492de7bd4/jira-svgrepo-com.svg"></a>
