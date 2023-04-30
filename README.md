@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZhutaev&layout=compact)
+
+![Languages](https://img.shields.io/badge/Languages-Python,%20JavaScript,%20HTML-000000?style=for-the-badge&logo=Python)
+
