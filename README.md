@@ -51,7 +51,5 @@ Here are some ideas to get you started:
  <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZhutaev&layout=compact)
-
-![Languages](https://img.shields.io/badge/Languages-Python,%20JavaScript,%20HTML-000000?style=for-the-badge&logo=Python)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZhutaev=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
