@@ -12,6 +12,8 @@
 <a href="https://www.redis.io/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/932d1f0171720ddb8fcccbe1d94c6a59cb7b71a8/icons8-redis-96.svg" alt="Redis" height='50px'/></a>
 
 <br>
+<br>
+<br>
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
