@@ -51,6 +51,3 @@ Here are some ideas to get you started:
  <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=DenisZhutaev&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=DenisZhutaev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
