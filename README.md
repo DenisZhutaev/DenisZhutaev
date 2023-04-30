@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=33&pause=200&color=006AFF&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
-<!-- настроить бегущую строку на сайте https://readme-typing-svg.herokuapp.com/demo/ -->
+
+<!-- set up a ticker on the website https://readme-typing-svg.herokuapp.com/demo/ -->
+<!-- insert nice emoji https://github.com/markdown-templates/markdown-emojis -->
 <br>
 
 ### 🔨 Languages and Tools:
