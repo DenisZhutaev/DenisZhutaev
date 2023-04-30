@@ -53,7 +53,3 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DenisZhutaev&theme=darkhub)
 
-
-[![Top Langs](https://github-readme-atats.vercel.app/api/top-langs/?username=DenisZhutaev)
-
-
