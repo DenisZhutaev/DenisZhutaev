@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=200&color=006AFF&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=200&color=006AFF&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!-- <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  -->
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📲 Connect with me:</h3>
 <p align="left">
  <a href="mailto:zhutaev.d@gmail.com" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7fec85857ca7dfb309f40873a66de5da3de04b84/gmail-old-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
  <a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3cfb8c4dcd5fc84edb335c6a01a6924aed33b82/linkedin-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
