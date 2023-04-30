@@ -1,27 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=33&pause=200&color=006AFF&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
-<!-- <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
- -->
-<!-- [![Visits](https://komarev.com/ghpvc/?username=DenisZhutaev&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/DenisZhutaev) -->
-
-<!--
-**DenisZhutaev/DenisZhutaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br>
 
 <br>
-
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
@@ -36,7 +16,6 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
