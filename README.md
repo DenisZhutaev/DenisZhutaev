@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=33&pause=200&color=006AFF&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
 <br>
 
-<br>
-
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
 <a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/8e28783ec35a7d29d0889af84cd25130dc46be67/miro-logos-idG4aRyg5R.svg"> </a>
@@ -12,8 +10,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/e787af0f5d22935faa689dbbfeba22f44228d294/icons8-figma-96.svg" alt="Figma" height='48px'/></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b9ac63c9d2e6aaabd538c8fe1ba9b0b03efe7261/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
 <a href="https://www.redis.io/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/932d1f0171720ddb8fcccbe1d94c6a59cb7b71a8/icons8-redis-96.svg" alt="Redis" height='50px'/></a>
-
-<br>
 
 <br>
 
