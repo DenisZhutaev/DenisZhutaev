@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <br>
 
 <br>
+
+
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
 <a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/8e28783ec35a7d29d0889af84cd25130dc46be67/miro-logos-idG4aRyg5R.svg"> </a>
@@ -34,8 +36,6 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-
-
 
 
 <h3 align="left">📲 Connect with me:</h3>
@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZhutaev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisZhutaev&show_icons=true&theme=transparent)
 
