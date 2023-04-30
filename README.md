@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&color=006AFF&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=200&color=006AFF&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!-- <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/DenisZhutaev">Denis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  -->
