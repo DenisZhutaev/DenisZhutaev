@@ -14,7 +14,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b9ac63c9d2e6aaabd538c8fe1ba9b0b03efe7261/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
 <a href="https://www.redis.io/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/932d1f0171720ddb8fcccbe1d94c6a59cb7b71a8/icons8-redis-96.svg" alt="Redis" height='50px'/></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='50px'/></a>
-<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='50px'/></a>
+<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='60px'/></a>
 
 
 
@@ -29,7 +29,7 @@
  <a href="https://t.me/user_553876" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
  <a href="https://www.facebook.com/profile.php?id=1748846065" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/4beadd6b586c37ef5bba11b645554fad281279cd/facebook-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
  <a href="https://www.instagram.com/zhutaevdenis/" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7c4b553549dafd15f3f3c1a94e374c0e187f739c/instagram-2-1-logo-svgrepo-com.svg" alt="" height="30"  width="40" /></a>
- <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="25" width="35" /></a>
+ <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
 <br>
 
