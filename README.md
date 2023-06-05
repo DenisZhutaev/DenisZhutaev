@@ -14,6 +14,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b9ac63c9d2e6aaabd538c8fe1ba9b0b03efe7261/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
 <a href="https://www.redis.io/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/932d1f0171720ddb8fcccbe1d94c6a59cb7b71a8/icons8-redis-96.svg" alt="Redis" height='50px'/></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='50px'/></a>
+<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='50px'/></a>
+
 
 
 <br>
