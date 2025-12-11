@@ -1,44 +1,44 @@
-👋 Hello, I'm Denis Zhutaev
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=33&pause=200&color=006AFF&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Denis....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=33&pause=200&color=006AFF&width=435&lines=Welcome+to+my+GitHub!;QA+Engineer+from+Russia;Always+learning+something+new!
+<!-- set up a ticker on the website https://readme-typing-svg.herokuapp.com/demo/ -->
+<!-- insert nice emoji https://github.com/markdown-templates/markdown-emojis -->
+<br>
 
-I'm a detail-oriented QA Engineer with experience in manual and automated testing. Passionate about improving software quality, optimizing testing processes, and continuous learning in the tech field.
-🛠️ Tech Stack & Tools
-Programming & Scripting
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
+<a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/8e28783ec35a7d29d0889af84cd25130dc46be67/miro-logos-idG4aRyg5R.svg"> </a>
+<a href="https://trello.com/" target="_blank"><img align="left" alt="Trello" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3ebef14b6d2e63a30986e8399920b22386575c7/trello-color-svgrepo-com.svg"></a>
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/51a4c6f8382e0f214b0d5a3196e3217492de7bd4/jira-svgrepo-com.svg"></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/38999e3946d16ff7d8102a5f1e9b81c4b3c5d887/postman-icon-svgrepo-com.svg"></a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/e787af0f5d22935faa689dbbfeba22f44228d294/icons8-figma-96.svg" alt="Figma" height='48px'/></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b9ac63c9d2e6aaabd538c8fe1ba9b0b03efe7261/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
+<a href="https://www.redis.io/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/932d1f0171720ddb8fcccbe1d94c6a59cb7b71a8/icons8-redis-96.svg" alt="Redis" height='50px'/></a>
+<a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='45px'/></a>
+<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='70px'/></a>
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-Testing & QA
 
-https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
-https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-Development & DevOps
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
-Project Management & Collaboration
+<br>
+<br>
+<br>
 
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
-https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white
-Design & Prototyping
+<h3 align="left">📲 Connect with me:</h3>
+<p align="left">
+ <a href="mailto:zhutaev.d@gmail.com" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7fec85857ca7dfb309f40873a66de5da3de04b84/gmail-old-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
+ <a href="https://www.linkedin.com/in/denis-zhutaev-ju/" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b3cfb8c4dcd5fc84edb335c6a01a6924aed33b82/linkedin-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
+ <a href="https://t.me/DYuZhutaev" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
+ <a href="https://www.facebook.com/profile.php?id=1748846065" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/4beadd6b586c37ef5bba11b645554fad281279cd/facebook-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
+ <a href="https://www.instagram.com/zhutaevdenis/" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/7c4b553549dafd15f3f3c1a94e374c0e187f739c/instagram-2-1-logo-svgrepo-com.svg" alt="" height="30"  width="40" /></a>
+ <a href="https://vk.com/zhutaev_den" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
+</p>
+<br>
 
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-📊 GitHub Stats
-<div align="center">
+<br>
 
-https://github-readme-stats.vercel.app/api?username=DenisZhutaev&show_icons=true&theme=default&hide_title=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZhutaev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZhutaev&layout=compact&theme=default
-</div>
-📫 Connect With Me
-<p align="center"> <a href="mailto:zhutaev.d@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/denis-zhutaev-ju/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://t.me/user_553876"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> </p><p align="center"> <a href="https://www.facebook.com/profile.php?id=1748846065"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.instagram.com/zhutaevdenis/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://vk.com/zhutaev_den"> <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/> </a> </p>
-📌 Currently
+<br>
 
-    🔭 Working on improving my automated testing skills
+<br>
 
-    🌱 Learning new testing frameworks and methodologies
-
-    👯 Looking to collaborate on interesting QA/Testing projects
-
-    💬 Ask me about manual testing, test automation, or Python for QA
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisZhutaev&show_icons=true&theme=transparent)
