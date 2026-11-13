@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Denis Zhutaev. QA Engineer. Python, automation and tools." width="100%">
+  <img src="https://raw.githubusercontent.com/DenisZhutaev/DenisZhutaev/d8e76262ba9bafc5a22845a7915b9a9f1c37f79a/assets/profile-hero.svg" alt="Denis Zhutaev. QA Engineer. Python, automation and tools." width="100%">
 </p>
 
 <p align="center">
