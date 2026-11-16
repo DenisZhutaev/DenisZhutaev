@@ -55,10 +55,37 @@
 
 | Направление | С чем работаю |
 |:---|:---|
-| Автоматизация | Python · pytest · Selenium · GitHub Actions |
-| Проверки и диагностика | Postman · DevTools · Git |
-| Требования и интерфейсы | Jira · Miro · Figma |
-| Приложения для macOS | Swift · AppKit |
+| Автоматизация веб-проверок | Python · pytest · Selenium · Playwright |
+| API и анализ трафика | Postman · Proxyman · DevTools · curl |
+| Android | Android Studio · Android Emulator · ADB · Logcat |
+| iOS | Xcode · iOS Simulator · TestFlight |
+| Тестовая документация и задачи | Test IT · Jira · Яндекс Трекер · Яндекс Вики |
+| Требования и интерфейсы | Miro · Figma |
+| Базы данных | SQL · MySQL Workbench · PostgreSQL · SQLite |
+| Контроль версий и CI | Git · GitHub · GitHub Actions · Fork |
+| Среда разработки | VS Code · PyCharm · Cursor · Docker |
+| Приложения для macOS | Swift · AppKit · Xcode Command Line Tools |
+| AI в тестировании и разработке | Codex · ChatGPT · Claude · LM Studio |
+| Управление приложениями через AI | MCP · ARTEMIS · mobile-mcp |
+| Мониторинг и анализ кода | Grafana · Semgrep |
+| Командная строка и утилиты | uv · Node.js · npm · pnpm · jq · RTK · FFmpeg |
+
+<details>
+<summary>Дополнительные инструменты на моём Mac</summary>
+
+| Направление | Инструменты |
+|:---|:---|
+| API и сетевой анализ | Bruno · Charles · Reqable |
+| Базы данных | DBeaver |
+| Нагрузочные проверки | k6 · k6 Studio |
+| Проверки безопасности | OWASP ZAP |
+| Работа с Android | Vysor · BlueStacks |
+| Редакторы и IDE | Qoder · Zed · GIGA IDE |
+| AI и локальные модели | DeepSeek Harness |
+| Браузеры | Chrome · Firefox · Safari · Zen |
+| Скриншоты и материалы проверок | CleanShot X · Obsidian |
+
+</details>
 
 ## Как подхожу к работе
 
